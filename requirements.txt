@@ -6,3 +6,5 @@ faiss-cpu
 python-dotenv
 pydantic
 sentence-transformers
+reportlab
+psutil
